@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hikmetEC
 - 👀 I’m interested in Software Development and Programming.
-- 🌱 I’m have knowledge and experiance C++,C,C#,Python and Java programming languages.
+- 🌱 I’m have knowledge and experiance C++,C,C# and Python programming languages.
 - 💞️ I’m looking to collaborate on general programming projects.
 - 📫 How to reach me: You could reach me from my email.
